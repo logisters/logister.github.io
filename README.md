@@ -1,2 +1,2 @@
 # logister.github.io
-logister home pate
+logister home page
